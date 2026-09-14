@@ -1,0 +1,6 @@
+site_name: Chase Jackman Style Guide
+nav:
+ - Home: index.md
+ - About: about.md
+ - Coding Style: style.md
+theme: readthedocs
